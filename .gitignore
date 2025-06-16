@@ -1,0 +1,58 @@
+# Unity generated folders
+./[Ll]ibrary/
+/Library/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]serSettings/
+/[Mm]emoryCaptures/
+/[Ss]napshotComparisons/
+/[Dd]ebug/
+
+# Unity specific files
+*.pidb
+*.booproj
+*.sln
+*.csproj
+*.unityproj
+*.suo
+*.user
+*.userprefs
+*.DS_Store
+*.meta
+
+# Visual Studio / Rider
+.vs/
+.idea/
+*.resharper
+*.bak
+
+# Packages
+# Packages folder itself might be versioned if you use UPM
+# But specific caches or locally generated files might be ignored
+# Example:
+# /Packages/manifest.json
+# /Packages/manifest.json.meta
+# /Packages/packages-lock.json
+# /Packages/packages-lock.json.meta
+
+# Build results
+/Assets/AssetBundles/
+/Assets/StreamingAssets/
+/Assets/WebGLTemplates/
+
+# Local history files
+.local/
+
+# macOS specific files
+.DS_Store
+
+# Ignore all .meta files from ignored folders (they are automatically generated)
+# Example:
+# [Ll]ibrary.meta
+# [Tt]emp.meta
+
+# Git LFS (Large File Storage) tracked files - add these with `git lfs track`
+# See git lfs track command below for typical files
